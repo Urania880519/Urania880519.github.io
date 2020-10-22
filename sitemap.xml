@@ -3,211 +3,211 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://merrillm1.github.io/authors/</loc>
+    <lastmod>2020-10-22T10:34:16-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merrillm1.github.io/author/matthew-merrill/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/matthew-merrill/</loc>
+    <loc>https://merrillm1.github.io/</loc>
+    <lastmod>2020-10-22T10:34:16-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://merrillm1.github.io/tag/mini-project/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://merrillm1.github.io/project/mini_projects/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/mini-project/</loc>
+    <loc>https://merrillm1.github.io/project/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/mini_projects/</loc>
+    <loc>https://merrillm1.github.io/tags/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>https://merrillm1.github.io/tag/catboost/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://merrillm1.github.io/categories/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/catboost/</loc>
+    <loc>https://merrillm1.github.io/tag/classification/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://merrillm1.github.io/category/classification/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/classification/</loc>
+    <loc>https://merrillm1.github.io/tag/data-science/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/classification/</loc>
+    <loc>https://merrillm1.github.io/tag/data-visualization/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/data-science/</loc>
+    <loc>https://merrillm1.github.io/tag/experimental-design/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/data-visualization/</loc>
+    <loc>https://merrillm1.github.io/tag/feature-engineering/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/experimental-design/</loc>
+    <loc>https://merrillm1.github.io/tag/feature-importance/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/feature-engineering/</loc>
+    <loc>https://merrillm1.github.io/tag/machine-learning/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/feature-importance/</loc>
+    <loc>https://merrillm1.github.io/category/machine-learning/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/machine-learning/</loc>
+    <loc>https://merrillm1.github.io/project/predicting_rider_retention/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/machine-learning/</loc>
+    <loc>https://merrillm1.github.io/tag/time-series-analysis/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/predicting_rider_retention/</loc>
+    <loc>https://merrillm1.github.io/tag/user-insights/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/time-series-analysis/</loc>
+    <loc>https://merrillm1.github.io/category/user-insights/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/user-insights/</loc>
+    <loc>https://merrillm1.github.io/tag/user-retention/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/user-insights/</loc>
+    <loc>https://merrillm1.github.io/tag/data-leakage/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/user-retention/</loc>
+    <loc>https://merrillm1.github.io/project/predicting_user_adoption/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/data-leakage/</loc>
+    <loc>https://merrillm1.github.io/tag/svm/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/predicting_user_adoption/</loc>
+    <loc>https://merrillm1.github.io/tag/user-adoption/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/svm/</loc>
+    <loc>https://merrillm1.github.io/tag/capstone-project/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/user-adoption/</loc>
+    <loc>https://merrillm1.github.io/category/capstone-projects/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/capstone-project/</loc>
+    <loc>https://merrillm1.github.io/tag/clustering/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/capstone-projects/</loc>
+    <loc>https://merrillm1.github.io/category/clustering/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/clustering/</loc>
+    <loc>https://merrillm1.github.io/tag/lightfm/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/clustering/</loc>
+    <loc>https://merrillm1.github.io/project/lightfm_recommendation_system/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/lightfm/</loc>
+    <loc>https://merrillm1.github.io/tag/recommendation-system/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/lightfm_recommendation_system/</loc>
+    <loc>https://merrillm1.github.io/category/recommendation-system/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/recommendation-system/</loc>
+    <loc>https://merrillm1.github.io/tag/inferential-statistics/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/recommendation-system/</loc>
+    <loc>https://merrillm1.github.io/project/predicting_cancellations/</loc>
     <lastmod>2020-10-08T22:07:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/inferential-statistics/</loc>
-    <lastmod>2020-10-08T22:07:30-07:00</lastmod>
+    <loc>https://merrillm1.github.io/author/matthew-merrill/</loc>
+    <lastmod>2020-10-22T10:34:16-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/predicting_cancellations/</loc>
-    <lastmod>2020-10-08T22:07:30-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/matthew-merrill/</loc>
-    <lastmod>2020-10-08T22:07:30-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+    <loc>https://merrillm1.github.io/post/</loc>
     <lastmod>2020-07-29T20:27:45+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://merrillm1.github.io/publication_types/</loc>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://merrillm1.github.io/publication/</loc>
     <lastmod>2020-07-29T20:27:45+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://merrillm1.github.io/talk/</loc>
     <lastmod>2020-07-29T20:27:45+01:00</lastmod>
   </url>
   

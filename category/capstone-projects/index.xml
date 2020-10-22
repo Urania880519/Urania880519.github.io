@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Capstone Projects | Matthew Merrill</title>
-    <link>/category/capstone-projects/</link>
-      <atom:link href="/category/capstone-projects/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://merrillm1.github.io/category/capstone-projects/</link>
+      <atom:link href="https://merrillm1.github.io/category/capstone-projects/index.xml" rel="self" type="application/rss+xml" />
     <description>Capstone Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Oct 2020 10:54:50 -0700</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://merrillm1.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Capstone Projects</title>
-      <link>/category/capstone-projects/</link>
+      <link>https://merrillm1.github.io/category/capstone-projects/</link>
     </image>
     
     <item>
       <title>Lightfm Recommendation System</title>
-      <link>/project/lightfm_recommendation_system/</link>
+      <link>https://merrillm1.github.io/project/lightfm_recommendation_system/</link>
       <pubDate>Thu, 08 Oct 2020 10:54:50 -0700</pubDate>
-      <guid>/project/lightfm_recommendation_system/</guid>
+      <guid>https://merrillm1.github.io/project/lightfm_recommendation_system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting Hotel Cancellations</title>
-      <link>/project/predicting_cancellations/</link>
+      <link>https://merrillm1.github.io/project/predicting_cancellations/</link>
       <pubDate>Wed, 07 Oct 2020 22:46:11 -0700</pubDate>
-      <guid>/project/predicting_cancellations/</guid>
+      <guid>https://merrillm1.github.io/project/predicting_cancellations/</guid>
       <description></description>
     </item>
     
