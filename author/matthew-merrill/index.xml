@@ -5,52 +5,12 @@
     <link>https://merrillm1.github.io/author/matthew-merrill/</link>
       <atom:link href="https://merrillm1.github.io/author/matthew-merrill/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthew Merrill</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Oct 2020 12:58:02 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://merrillm1.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Matthew Merrill</title>
       <link>https://merrillm1.github.io/author/matthew-merrill/</link>
     </image>
-    
-    <item>
-      <title>Mini_projects</title>
-      <link>https://merrillm1.github.io/project/mini_projects/</link>
-      <pubDate>Thu, 08 Oct 2020 12:58:02 -0700</pubDate>
-      <guid>https://merrillm1.github.io/project/mini_projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting Rider Retention</title>
-      <link>https://merrillm1.github.io/project/predicting_rider_retention/</link>
-      <pubDate>Thu, 08 Oct 2020 12:02:27 -0700</pubDate>
-      <guid>https://merrillm1.github.io/project/predicting_rider_retention/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting User Adoption</title>
-      <link>https://merrillm1.github.io/project/predicting_user_adoption/</link>
-      <pubDate>Thu, 08 Oct 2020 11:36:20 -0700</pubDate>
-      <guid>https://merrillm1.github.io/project/predicting_user_adoption/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lightfm Recommendation System</title>
-      <link>https://merrillm1.github.io/project/lightfm_recommendation_system/</link>
-      <pubDate>Thu, 08 Oct 2020 10:54:50 -0700</pubDate>
-      <guid>https://merrillm1.github.io/project/lightfm_recommendation_system/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting Hotel Cancellations</title>
-      <link>https://merrillm1.github.io/project/predicting_cancellations/</link>
-      <pubDate>Wed, 07 Oct 2020 22:46:11 -0700</pubDate>
-      <guid>https://merrillm1.github.io/project/predicting_cancellations/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
