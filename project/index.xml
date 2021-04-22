@@ -5,12 +5,28 @@
     <link>https://merrillm1.github.io/project/</link>
       <atom:link href="https://merrillm1.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Nov 2020 11:36:20 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Apr 2021 12:38:32 -0700</lastBuildDate>
     <image>
       <url>https://merrillm1.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://merrillm1.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Predicting Churn</title>
+      <link>https://merrillm1.github.io/project/predicting_churn/</link>
+      <pubDate>Thu, 22 Apr 2021 12:38:32 -0700</pubDate>
+      <guid>https://merrillm1.github.io/project/predicting_churn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis with ULMFiT</title>
+      <link>https://merrillm1.github.io/project/ulmfit/</link>
+      <pubDate>Thu, 22 Apr 2021 12:37:53 -0700</pubDate>
+      <guid>https://merrillm1.github.io/project/ulmfit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Streamlit App</title>
