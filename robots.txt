@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://Urania880519.github.io/sitemap.xml
